@@ -1,4 +1,3 @@
-clear
 echo "a shell script to calculat +,-,/,*,%"
 echo "Enter number1"
 read number1
