@@ -5,7 +5,7 @@ read number1 //take number one from user and read it
 echo "Second number2:" //message to put in first number 
 read number2 //take number two from user and read it
 
-if test $number1 -gt $number2 
+if test $number1 -gt $number2  //check to number is greater or not ,-gt is greater than
 then
 	echo $number1  is greater than $number2 .
 else
