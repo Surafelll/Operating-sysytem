@@ -1,6 +1,6 @@
 clear
-echo "a shell script to find out the large between two number."
-echo "First number1 :"
+echo "a shell script to find out the large between two number." //details about all program
+echo "First number1 :" //message to put in first number 
 read number1 
 echo "Second number2:"
 read number2
