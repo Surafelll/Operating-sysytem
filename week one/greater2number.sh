@@ -7,7 +7,7 @@ read number2 //take number two from user and read it
 
 if test $number1 -gt $number2  //check to number is greater or not ,-gt is greater than
 then
-	echo $number1  is greater than $number2 .
+	echo $number1  is greater than $number2 . //out if num 1 is greater 
 else
 	echo $number2 is greater than or equal to $number1 .
 fi
