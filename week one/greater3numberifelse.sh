@@ -1,7 +1,7 @@
 clear
-echo "     	          --PROGRAM TO FIND GREATEST 3 NUMBER USING IF...ELSE-- "
-echo "Enter Num1"
-read num1
+echo "    --PROGRAM TO FIND GREATEST 3 NUMBER USING IF...ELSE-- "
+echo "Enter Num1" //display to input user number 1
+read num1 //read from user number 1
 echo "Enter Num2"
 read num2
 echo "Enter Num3"
