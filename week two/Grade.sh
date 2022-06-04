@@ -1,7 +1,7 @@
 clear
 echo "STUDENT GRADE OF 3 SUBJECT SHELL SCRIPT"
 echo "Enter marks(out of 100) of "
-read -p "Subject 1: " s1 //start a process at a specific priority
+read -p "Subject 1: " s1 //start a process at a specific priority.
 read -p "Subject 2: " s2 //start a process at a specific priority.
 read -p "Subject 3: " s3 //start a process at a specific priority.
 sum=$(( $s1 + $s2 + $s3))
