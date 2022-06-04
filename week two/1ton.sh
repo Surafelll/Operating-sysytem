@@ -3,7 +3,7 @@ echo "LIST OF 1 TO N SHEL SCRIPT"
  echo "Enter number N"
  read N  
 INDEX=0
- while [ $INDEX -lt $N ]
+ while [ $INDEX -lt $N ] //less than
 do
      echo $INDEX
     INDEX=$(($INDEX+1))
